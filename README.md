@@ -15,12 +15,11 @@ Arduino Nano термометр с DS18B20, LCD 16×2, контролем ста
 
 ## Термометр в работе
 
-<img width="599" height="923" alt="20260704_132744" src="https://github.com/user-attachments/assets/8f1da53f-a526-4088-aaaa-3f842d3d36ac" />
+<img width="579" height="844" alt="20260704_132744" src="https://github.com/user-attachments/assets/c6cf8b77-f2d1-4b7d-8e34-df0e71fb5c7b" />
 
 ## Проверка на льду 
 
-<img width="1130" height="2271" alt="20260706_104703" src="https://github.com/user-attachments/assets/8da22205-f7cd-4a07-8a38-733828e41ac8" />
-
+><img width="667" height="1340" alt="20260706_104703" src="https://github.com/user-attachments/assets/4e511105-9bfd-4c35-8849-32c9a1070b78" />
 
 ## Железо
 

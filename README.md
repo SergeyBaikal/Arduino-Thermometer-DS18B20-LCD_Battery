@@ -13,13 +13,11 @@ Arduino Nano термометр с DS18B20, LCD 16×2, контролем ста
 - Обратный отсчёт до следующего измерения
 - Диапазон измерения: -55°C до +125°C для оригинального DS18B20 (у меня клон, я бы использовал только в пределах -20...+85°C).
 
-## Термометр в работе
+## Общий вид устройства (A) и проверка на льду (B)
 
-<img width="579" height="844" alt="20260704_132744" src="https://github.com/user-attachments/assets/c6cf8b77-f2d1-4b7d-8e34-df0e71fb5c7b" />
+<img width="926" height="697" alt="Тер2" src="https://github.com/user-attachments/assets/b03de2c4-1a46-4599-99ce-31fbfc7082b9" />
 
-## Проверка на льду 
 
-><img width="667" height="1340" alt="20260706_104703" src="https://github.com/user-attachments/assets/4e511105-9bfd-4c35-8849-32c9a1070b78" />
 
 ## Железо
 
